@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  RedBlockIOS
+
+  Created by che on 15/7/7.
+  Copyright (c) 2015年 cyzcj. All rights reserved.
+*/
+
+
+//NSLocalizedString(@"welcome", nil)
+
+"levelClear" = "您可以使用道具跳过当前关卡.";
+"levelBuy"   = "您当前无跳过关卡的道具,点击购买按钮获取.";
+"buyButton"  = "购买";
+"cancelButton" = "取消";
+"confirmButton" = "确定";
+"info"       = "通过方向按钮控制红块进行移动,途中过程收集星星,同时不可与蓝色的球碰撞,最终将红块移送到蓝色区域.";
+"title"     = "信息";

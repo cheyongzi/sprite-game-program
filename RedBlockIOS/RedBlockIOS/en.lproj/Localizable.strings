@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  RedBlockIOS
+
+  Created by che on 15/7/7.
+  Copyright (c) 2015年 cyzcj. All rights reserved.
+*/
+
+"levelClear" = "You can skip the current level by using the item.";
+"levelBuy" = "You currently have no jump in the level of the props, click the purchase button to get.";
+"buyButton"  = "Buy";
+"cancelButton" = "Cancel";
+"confirmButton" = "Confirm";
+"title"     = "Info";
+"info"       = "Through the direction button to control the red block to move, the way to collect the stars, but not with the ball of the blue ball, the red block will eventually be transferred to the blue area.";
