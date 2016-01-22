@@ -1,0 +1,64 @@
+{
+    "scene": 2,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "circleDirections" : [2,4,6]
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "circleDirections" : [2,4]
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 20,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              }
+              ]
+}

@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LinkAll
+
+  Created by che on 15/11/20.
+  Copyright © 2015年 cheyongzi. All rights reserved.
+*/
+
+"scene1Tip1_1" = "Tap here to visit";
+"scene1Tip1_2" = "each node once";
+"scene1Tip2" = "The path can't go through here";
+"scene1Tip3" = "The path must go through here";
+"scene2Tip1_1" = "Activate the disable node";
+"scene2Tip1_2" = "by visiting this node";
+"scene2Tip2_1" = "You have to visit ";
+"scene2Tip2_2" = "the node twice";
+"scene3Tip1_1" = "You have to visit ";
+"scene3Tip1_2" = "the node through gap";
+"scene3Tip2_1" = "The path go through here";
+"scene3Tip2_2" = "will block the square";
+"weChat" = "WeChat";
+"Friends" = "Friends";

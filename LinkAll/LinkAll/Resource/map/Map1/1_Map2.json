@@ -1,0 +1,49 @@
+{
+    "scene": 1,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 75,
+              "nodeY" : 300,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 75,
+              "nodeY" : 150,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 225,
+              "nodeY" : 150,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 225,
+              "nodeY" : 300,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 75,
+              "nodeY" : 300,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 140,
+              "nodeH" : 1,
+              "rotation" : -0.25
+              }
+            ]
+}

@@ -1,0 +1,94 @@
+{
+    "scene": 2,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "circleDirections" : [5,6]
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "relationship" : true,
+              "nodeName" : "firstReOneNode"
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "nodeName" : "firstReSecNode",
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 280,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 6,
+              "nodeX" : 130,
+              "nodeY" : 225,
+              "nodeW" : 240,
+              "nodeH" : 5,
+              "firstNodeName" : "firstReOneNode",
+              "secondNodeName" : "firstReSecNode",
+              "rotation" : -0.5,
+              }
+              ]
+}

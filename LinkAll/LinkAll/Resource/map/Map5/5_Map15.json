@@ -1,0 +1,122 @@
+{
+    "scene": 2,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              "isRedSpriteNode" : true,
+              "redSpriteType" : 1
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true,
+              "redSpriteType" : 1
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true,
+              "redSpriteType" : 1
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true,
+              "redSpriteType" : 1
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true,
+              "redSpriteType" : 1
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 20,
+              "nodeY" : 290,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 20,
+              "nodeY" : 160,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 150,
+              "nodeY" : 160,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 280,
+              "nodeY" : 290,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5,
+              }
+              ]
+}

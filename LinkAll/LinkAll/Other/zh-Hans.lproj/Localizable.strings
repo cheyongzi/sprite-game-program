@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LinkAll
+
+  Created by che on 15/11/20.
+  Copyright © 2015年 cheyongzi. All rights reserved.
+*/
+
+"scene1Tip1_1" = "点击这里访问";
+"scene1Tip1_2" = "每个节点一次";
+"scene1Tip2" = "路径不可经过这里";
+"scene1Tip3" = "该路径必须经过这里";
+"scene2Tip1_1" = "通过访问这个节点";
+"scene2Tip1_2" = "激活不可用节点";
+"scene2Tip2_1" = "你必须访问";
+"scene2Tip2_2" = "该节点两次";
+"scene3Tip1_1" = "你只能通过缝隙";
+"scene3Tip1_2" = "方向访问节点";
+"scene3Tip2_1" = "该节点将路径";
+"scene3Tip2_2" = "变为不可相交";
+"weChat" = "微信";
+"Friends" = "朋友圈";

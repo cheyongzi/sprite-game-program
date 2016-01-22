@@ -1,0 +1,123 @@
+{
+    "scene": 1,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 20,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 20,
+              "nodeY" : 355,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 85,
+              "nodeY" : 355,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 150,
+              "nodeY" : 160,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 215,
+              "nodeY" : 225,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 85,
+              "nodeY" : 290,
+              "nodeW" : 120,
+              "nodeH" : 1,
+              "rotation" : -0.25
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 150,
+              "nodeY" : 290,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0.5
+              },
+              {
+              "nodeType" : 5,
+              "nodeX" : 85,
+              "nodeY" : 160,
+              "nodeW" : 20,
+              "nodeH" : 20,
+              }
+              ]
+}

@@ -1,0 +1,124 @@
+{
+    "scene": 2,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 106,
+              "nodeY" : 268,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 106,
+              "nodeY" : 354,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 192,
+              "nodeY" : 354,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 278,
+              "nodeY" : 268,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 106,
+              "nodeY" : 96,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 192,
+              "nodeY" : 96,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 192,
+              "nodeY" : 268,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 106,
+              "nodeY" : 182,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true,
+              "relationship" : true,
+              "nodeName" : "firstReOneNode",
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 192,
+              "nodeY" : 182,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "nodeName" : "firstReSecNode",
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 20,
+              "nodeY" : 182,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 106,
+              "nodeY" : 268,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 192,
+              "nodeY" : 225,
+              "nodeW" : 40,
+              "nodeH" : 1,
+              "rotation" : 0.5
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 149,
+              "nodeY" : 182,
+              "nodeW" : 40,
+              "nodeH" : 1,
+              "rotation" : 0
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 149,
+              "nodeY" : 139,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : -0.25
+              },
+              {
+              "nodeType" : 6,
+              "nodeX" : 149,
+              "nodeY" : 202,
+              "nodeW" : 60,
+              "nodeH" : 5,
+              "firstNodeName" : "firstReOneNode",
+              "secondNodeName" : "firstReSecNode",
+              "rotation" : -1,
+              }
+              ]
+}

@@ -1,0 +1,89 @@
+{
+    "scene": 2,
+    "nodes": [
+              {
+              "nodeType" : 1,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isStartNode" : true,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 20,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 355,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 1,
+              "nodeX" : 150,
+              "nodeY" : 95,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              "isRedSpriteNode" : true
+              },
+              {
+              "nodeType" : 2,
+              "nodeX" : 280,
+              "nodeY" : 225,
+              "nodeW" : 22,
+              "nodeH" : 22,
+              },
+              {
+              "nodeType" : 3,
+              "nodeX" : 280,
+              "nodeY" : 355,
+              "nodeW" : 30,
+              "nodeH" : 30,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 215,
+              "nodeY" : 355,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 215,
+              "nodeY" : 225,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0,
+              },
+              {
+              "nodeType" : 4,
+              "nodeX" : 85,
+              "nodeY" : 225,
+              "nodeW" : 80,
+              "nodeH" : 1,
+              "rotation" : 0,
+              }
+              ]
+}
