@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C436E4CAFB08788E8ED377C1A97E8FD5F85EADB9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "839da311-1979-d941-a6ce-6ebfea4e94f1++7547" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C436E4CAFB08788E8ED377C1A97E8FD5F85EADB9" : 0,
+    "839da311-1979-d941-a6ce-6ebfea4e94f1++7547" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6EE83349-F6BB-4269-9F7C-00E2AB5A5840",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C436E4CAFB08788E8ED377C1A97E8FD5F85EADB9" : "sprite-game-program\/",
+    "839da311-1979-d941-a6ce-6ebfea4e94f1++7547" : "sprite-game-program\/RedBlockIOS\/RedBlockIOS\/audio\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RedBlockIOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RedBlockIOS\/RedBlockIOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.111",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "839da311-1979-d941-a6ce-6ebfea4e94f1++7547"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cheyongzi\/sprite-game-program.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C436E4CAFB08788E8ED377C1A97E8FD5F85EADB9"
+    }
+  ]
+}
